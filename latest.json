@@ -1,7 +1,7 @@
 {
-  "version": "1.7.2",
-  "min": "1.6.0",
-  "url": "https://github.com/jimboware/klown-releases/releases/download/v1.7.2/klown-1.7.2.zip",
-  "notes": "**Full Changelog**: https://github.com/jimboware/klown-releases/compare/v1.7.1...v1.7.2",
-  "releasedAt": "2026-04-18T09:09:07Z"
+  "version": "1.8.0",
+  "min": "1.7.2",
+  "url": "https://github.com/jimboware/klown-releases/releases/download/v1.8.0/klown-1.8.0.zip",
+  "notes": "**Full Changelog**: https://github.com/jimboware/klown-releases/compare/v1.7.2...v1.8.0",
+  "releasedAt": "2026-04-18T09:09:45Z"
 }
