@@ -1,6 +1,6 @@
 {
-  "version": "3.5.3",
-  "min": "3.4.1",
-  "url": "https://github.com/jimboware/klown-releases/releases/download/v3.5.3/klown-v3.5.3-DO_NOT_UNZIP.zip",
-  "releasedAt": "2026-10-10T20:19:29Z"
+  "version": "3.5.4",
+  "min": "3.5.4",
+  "url": "https://github.com/jimboware/klown-releases/releases/download/v3.5.4/klown-v3.5.4-DO_NOT_UNZIP.zip",
+  "releasedAt": "2026-10-13T01:35:26Z"
 }
